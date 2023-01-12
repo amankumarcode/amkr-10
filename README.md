@@ -15,21 +15,21 @@
   <img src="https://komarev.com/ghpvc/?username=amkr-10&style=flat-square&color=blue" alt=""/>
 </div>
 
-<div align="center">
+<!--<div align="center">
   <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="400" height="200"/>
-</div>
+</div> -->
 
 ---
 ---
 
-### :technologist: I, me, myself :
+### :technologist: About Me:
 
 
-- 👋 Hi, I’m a Full stack Data Scientist with industry experience.
+- 👋 Hi, I’m a Data Scientist with industry experience.
 - 👀 I’m interested in Data Science and Software Development. 
 - 🏛 I’m currently a master's student in Data Science.
 - ⚡ I’m looking for full time roles in Data Science, Data Engineering, Data Analyst and Software Development.
-- 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/aman-kumar-ab91a0118/))
+- 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/aman-kumar-ab91a0118/])
 
 ---
 ---
@@ -41,7 +41,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
