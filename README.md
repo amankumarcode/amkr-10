@@ -26,10 +26,9 @@
 
 
 - 👋 Hi, I’m a Data Scientist with industry experience.
-- 👀 I’m interested in Data Science and Software Development. 
 - 🏛 I’m currently a master's student in Data Science.
-- ⚡ I’m looking for full time roles in Data Science, Data Engineering, Data Analyst and Software Development.
-- 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/aman-kumar-ab91a0118/])
+- ⚡ I’m looking for full time roles in Data Science, Data Engineering, Data Analyst and Software Development starting May 2023.
+
 
 ---
 ---
